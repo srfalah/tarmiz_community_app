@@ -61,9 +61,7 @@
 تم تطوير المشروع باستخدام التقنيات التالية:
 
 - **Flutter**
-- **Dart**
-- **Material Design**
-- **Android Studio**
+- **Dart language**
 
 ---
 ## صور من التطبيق
