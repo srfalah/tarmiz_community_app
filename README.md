@@ -66,22 +66,11 @@
 - **Android Studio**
 
 ---
-
 ## صور من التطبيق
 
-### الصفحة الرئيسية
-![Home](screenshots/home.png)
-
-### صفحة الفعاليات
-![Events](screenshots/events.png)
-
-### صفحة الأعضاء
-![Members](screenshots/members.png)
-
-### صفحة الانضمام
-![Join](screenshots/join.png)
-
----
-
-## هيكل المشروع
+| Home Page | Join Us |
+|:---:|:---:|
+| <p align="center"><img src="screenshots/home_page.png" width="260"></p> | <p align="center"><img src="screenshots/join_us.png" width="260"></p> |
+| Email Filtering SnackBar | Registration Confirmation AlertDialog |
+| <p align="center"><img src="screenshots/email_filter.png" width="260"></p> | <p align="center"><img src="screenshots/registration.png" width="260"></p> |
 
