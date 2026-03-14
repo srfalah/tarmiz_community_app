@@ -1,17 +1,87 @@
-# tarmiz_community_app
+# Tarmiz Community App
 
-A new Flutter project.
+<p align="center">
+تطبيق تعليمي مبني باستخدام Flutter خاص بجمعية ترميز في منطقة الجوف
+</p>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## نبذة عن المشروع
 
-A few resources to get you started if this is your first Flutter project:
+تطبيق يمثل إصدار تجريبي خاص بـ **جمعية ترميز العمومية في منطقة الجوف**، وتم تصميمه ليكون كمثال عملي يمكن استخدامه في الدورات التدريبية أو شروحات تطوير تطبيقات الهواتف الذكية.
+مع العلم بأن هذا المشروع لا يمثل النظام الرسمي للجمعية وإنما الهدف منه للأغراض التعليمية فقط.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## أهداف التطبيق
+
+تم تطوير هذا التطبيق لتحقيق عدة أهداف تعليمية، من أهمها:
+
+- تقديم مثال عملي لتطوير تطبيق باستخدام **Flutter**
+- توضيح كيفية تنظيم مشروع Flutter
+- عرض كيفية إنشاء عدة صفحات داخل التطبيق
+- شرح آلية التنقل بين الصفحات
+- تقديم فكرة تطبيق يخدم مجتمعًا تقنيًا
+
+---
+
+## مميزات التطبيق
+
+- واجهة بسيطة وسهلة الاستخدام
+- تصميم حديث باستخدام Flutter
+- تنظيم التطبيق إلى عدة صفحات
+- شريط تنقل سفلي للتنقل بين الصفحات
+- عرض معلومات عن المجتمع
+- صفحة للفعاليات
+- صفحة لأعضاء الإدارة
+- صفحة للانضمام إلى المجتمع
+
+---
+
+## صفحات التطبيق
+
+يتكون التطبيق من عدة صفحات رئيسية:
+
+### الصفحة الرئيسية
+نبذة عامة عن الجمعية.
+
+### صفحة الانضمام للمجتمع
+إمكانية إضافة البريد الاكتروني للعضو ولكن بدون عملية حفظ فعلية.
+
+### صفحة الفعاليات
+تعرض بعض الفعاليات أو الأنشطة التقنية.
+
+### صفحة الأعضاء
+صفحة تعريفية بأعضاء إدارة الجمعية.
+
+---
+
+## التقنيات المستخدمة
+
+تم تطوير المشروع باستخدام التقنيات التالية:
+
+- **Flutter**
+- **Dart**
+- **Material Design**
+- **Android Studio**
+
+---
+
+## صور من التطبيق
+
+### الصفحة الرئيسية
+![Home](screenshots/home.png)
+
+### صفحة الفعاليات
+![Events](screenshots/events.png)
+
+### صفحة الأعضاء
+![Members](screenshots/members.png)
+
+### صفحة الانضمام
+![Join](screenshots/join.png)
+
+---
+
+## هيكل المشروع
+
